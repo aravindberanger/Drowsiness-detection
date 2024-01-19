@@ -42,14 +42,3 @@ Put your file to be detected in **images** folder with name **test.jpeg** or cha
 Run script using:
 
     python face_and_eye_detector_single_image.py
-
-### Detect Face and Eyes in a Webcam Feed
-Run script using:
-
-    python face_and_eye_detector_webcam_video.py
-### Drowsiness Detection
-Run script using:
-
-    python drowsiness_detect.py
-
-The algorithm for Eye Aspect Ratio was taken from pyimagesearch.com blog, by Adrian RoseBrock.
